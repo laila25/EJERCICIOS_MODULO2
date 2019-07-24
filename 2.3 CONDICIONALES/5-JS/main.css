@@ -1,0 +1,20 @@
+.success {
+  background-color: lightgreen;
+  border: solid 1px green;
+  color: green;
+  text-align: center;
+}
+
+.error {
+  background-color: lightsalmon;
+  border: solid 1px red;
+  color: red;
+  text-align: center;
+}
+
+.warning {
+  background-color: lightyellow;
+  border: solid 1px yellow;
+  color: yellow;
+  text-align: center;
+}

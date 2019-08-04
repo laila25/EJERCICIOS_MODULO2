@@ -1,0 +1,17 @@
+.radio1 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: blue;
+}
+
+input[type="radio"]:checked + label {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.selectTheme {
+  display: none;
+}

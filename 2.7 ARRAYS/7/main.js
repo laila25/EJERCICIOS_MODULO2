@@ -74,9 +74,7 @@ function countDesigners(arr) {
 
   for (let i = 0; i < arr.length; i++) {
     if (arr[i].job === "diseñadora") {
-      designers += 1;
-    } else {
-      designers = designers;
+      designers++;
     }
   }
 

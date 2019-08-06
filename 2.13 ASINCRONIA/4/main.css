@@ -1,0 +1,24 @@
+.modal {
+  width: 500px;
+  height: 500px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+
+.main {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.hidden {
+  display: none;
+}
